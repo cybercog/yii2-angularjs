@@ -29,5 +29,5 @@ Usage
 Once the extension is installed, simply use it in your code by  :
 
 ```php
-<?= \tnoi\angularjs\AutoloadExample::widget(); ?>```
+<?= \tnoi\angularjs\AngularAsset::register($this); ?>```
 
