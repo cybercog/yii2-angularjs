@@ -17,5 +17,11 @@
         "psr-4": {
             "tnoi\\angularjs\\": ""
         }
-    }
+    },
+    "repositories":[
+        {
+            "type": "git",
+            "url": "https://github.com/tnoi/yii2-angularjs.git"
+        }
+    ]
 }
