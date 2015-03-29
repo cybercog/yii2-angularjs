@@ -8,8 +8,9 @@ use yii\web\AssetBundle;
  */
 class AngularAsset extends AssetBundle
 {
-    public $sourcePath = '@vendor/tnoi/yii2-angularjs';
+    public $sourcePath = '@vendor/tnoi/yii2-angularjs/src';
     public $js = [
         'angular.min.js',
+        'angular-route.min.js'
     ];
 }
