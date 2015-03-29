@@ -1,3 +1,4 @@
+
 yii2 angularjs 
 ===============
 yii2 angularjs 
@@ -29,3 +30,4 @@ Once the extension is installed, simply use it in your code by  :
 
 ```php
 <?= \tnoi\angularjs\AutoloadExample::widget(); ?>```
+
