@@ -1,0 +1,21 @@
+{
+    "name": "tnoi/yii2-angularjs",
+    "description": "yii2 angularjs ",
+    "type": "library",
+    "keywords": ["angularjs"," yii2"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Thang Nguyen",
+            "email": "thangn.1411@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "tnoi\\angularjs\\": ""
+        }
+    }
+}
