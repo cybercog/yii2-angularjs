@@ -1,5 +1,6 @@
 <?php
 
+
 namespace tnoi\angularjs;
 
 use yii\web\AssetBundle;
